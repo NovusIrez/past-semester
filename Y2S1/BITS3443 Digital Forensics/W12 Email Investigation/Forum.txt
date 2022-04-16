@@ -1,0 +1,11 @@
+1. The tools can be used to analyze?
+- mxToolBox (analyse email header)
+- iplocation.net (identify the origin of the mail)
+
+2. The steps of the analysis are conducted.
+- Select the option to view the email's full header
+- Analyse the email header using mxToolBox analyzer online
+- if you can retrieve the ip of the sender, check their location using iplocation.net
+- using these information, identify whether the email is genuine or malicious
+
+3. Find and state other resources on how the fake email can be identified.

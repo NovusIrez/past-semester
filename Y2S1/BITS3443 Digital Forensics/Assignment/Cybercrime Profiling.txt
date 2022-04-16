@@ -1,0 +1,32 @@
+
+The date of the crime
+- February 2013
+
+Person involved characteristics:-
+
+Amy Kerbs
+- appears to be careless and easy-going as she was shown uncaring if someone had stolen her credit card
+and made unsupervised purchase using it. She also only take things seriously when the situation became severe.
+
+
+The criminal
+- shows confident in their methods as they seem to understand the inner workings of the bank policy and obtaining Amy's sensitive informations.
+
+
+Nature of crime
+- Identity theft
+
+Goal
+- To obtain Amy Kerbs' credit card
+
+Strategy used
+- Using Amy's sensitive information such as name, address and Social Security number, the criminal signed up for a card using Amy's name.
+
+Known information
+- The criminal understand the bank's policy to continue sending out the credit card even though the card has been flagged.
+
+Motivation
+- The criminal understanding of Amy's lax personality towards her assets might motivate this crime
+
+Method on contact
+- The most likely places for the criminal to obtain the information is Amy's workplace either by social engineering Amy into obtaining her Social Security Number or getting it from data stores such as database or forms

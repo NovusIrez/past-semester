@@ -1,0 +1,10 @@
+
+
+
+UPDATE BRANCH
+SET  Street = '12, Anna Beijerstraat'
+WHERE Branchno = 'B006'
+
+
+DELETE FROM BRANCH
+WHERE Branchno = 'B002'

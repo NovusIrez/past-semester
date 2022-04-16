@@ -1,0 +1,16 @@
+
+
+Why partition large disk
+- so that when the disk fail the whole thing is not gone
+
+MFT records
+- Resident, Nonresident
+- MFT refers to metadata attributes
+- identify resident and nonresident based on attributes
+- to know how MFT works, know how the OS handles the file structure (NTFS/ FAT)
+
+Physical Address = Partition
+logical address = Sector
+
+Logical cluster numbers(LCNs)
+- important for acquisition, reference data

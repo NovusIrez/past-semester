@@ -1,0 +1,18 @@
+From slide 10, explain creating smaller segmented files is a typical feature in vendor acquisition tools
+- lossless algorithm
+
+
+- customizable tools (recommended)
+
+
+2 types of tools
+-hardware based
+-software based
+->GUI
+->Command prompt
+
+tools
+- wireshark
+- FTK imager
+- lime linux memory extractor
+- MD5 checksum (hashing)

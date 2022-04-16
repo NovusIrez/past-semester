@@ -1,0 +1,42 @@
+Mental Models
+- how the user perceives how the system works
+
+
+Slips V. Mistakes
+
+Slip
+- Right model, accidently pressed the wrong thing
+-> Make targets bigger, seperate farther
+
+Mistake
+- Did the intended thing, wrong model
+-> provide better feedback, make it clear what are the options
+-> make user perceives better
+
+
+
+Minimize the distance between current practice and new technology
+
+
+
+
+
+1- Attention
+- is process selecting things to concentrate on, at a point in time, from the range of prossibilites available
+
+2- Perception
+- how info is acquired from the environment via different sense organs and transformed into experience of object, events, sounds and tastes
+
+3- Memory
+- recalling various kinds of knowledge that allows us to act appropiately
+
+4- Learning
+- learn through doing
+- GUI and direct manipulation interfaces are active learning
+
+5- Reading, Speaking, Listening
+- forms of language processing
+
+6- Problem Solving, Planning, Reasoning and Decision Making
+- reflective cognition
+- what to do, what are the options, and what are the consequences

@@ -1,0 +1,17 @@
+
+
+1. How to recognize a graphic file?
+- Understand the software required to open a graphic file by its extension or
+ use an online metadata viewer such as Exif Viewer
+
+    - Bitmap images: collection of dots
+
+    - Metafile graphics: combination of bitmap and vector
+
+    - Vector graphics: based on mathematical instructions
+
+2. How to repair damaged headers?
+- Use a good header samples of the same file type and restore the unique file header using hex editor
+
+3. How to analyze graphic file headers?
+- Use a hex viewing tool and editor such as Hex Workshop

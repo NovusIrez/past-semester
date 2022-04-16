@@ -1,0 +1,17 @@
+Collect Ram data - Live Acquisition
+
+voice identify - gait
+
+
+
+1- Digital evidence
+
+2- hearsay evidence
+
+3- Computer-generated records
+
+4- Evidence
+
+5- CRC-32
+
+6- Digital hash

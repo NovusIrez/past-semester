@@ -1,0 +1,20 @@
+Designing User Interface Components
+
+
+Command line interfaces
+- Requires users to type appropiate instruction into the command line
+
+Graphical User Interfaces (GUIs)
+- Icon, menu
+
+Multimedia
+- different media within single interface
+
+Virtual Reality
+- computer-generated graphical simulations
+
+Website design
+- 
+
+Mobile Interface
+- Intended to be used while on the move

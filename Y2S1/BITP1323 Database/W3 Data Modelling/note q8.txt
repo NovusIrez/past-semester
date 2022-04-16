@@ -1,0 +1,4 @@
+- BRANCH ngan video many to many, ada bridge entity nama COPY dgn attribute copy_number,category
+- BRANCH -> STAFF one to many
+- BRANCH -> CUSTOMER/MEMBER one to many
+- CUSTOMER -> RENTAL detak max 10

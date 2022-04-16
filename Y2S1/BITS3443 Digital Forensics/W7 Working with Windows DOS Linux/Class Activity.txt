@@ -1,0 +1,14 @@
+
+FAT
+- No permissions system
+- Supported by many operating system
+- Portable
+
+NTFS
+- Permissions system
+- Encryption file system
+- Compression system
+- Indexing
+- Journaling (recreate data through logs)
+- Links
+- User storage Quota

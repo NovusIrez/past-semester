@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<PDProject> 
+	<PDProjectInfo> 
+		<ProjectName> C2Prj04 </ProjectName> 
+		<ProjectNumber> 20210402_04 </ProjectNumber> 
+		<ProjectDesc> Recovering only allocated data from a disc </ProjectDesc> 
+	</PDProjectInfo> 
+	<ProcessExplorer> 
+	</ProcessExplorer> 
+
+	<Image> 
+		<IFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve </IFileName> 
+		<TypeOfDiskOrImage> Logical </TypeOfDiskOrImage> 
+		<IFileNumber> Proj-2-4 </IFileNumber> 
+		<ITechnName> Joe Friday </ITechnName> 
+		<IDate> 09/24/2006 </IDate> 
+		<ITime> 19:02:46 </ITime> 
+		<IChecksum> 1fa439988039bfe87667d82cdebf8e1a </IChecksum> 
+		<IChecksumValidated> Yes </IChecksumValidated> 
+
+		<Drive> 
+			<DiskName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve </DiskName> 
+			<OIVolName> TBC:0000000012000000000100 </OIVolName> 
+			<OIFileSystem> FAT12 </OIFileSystem> 
+			<OIBPS> 512 </OIBPS> 
+			<OITotClust> 2847 </OITotClust> 
+			<OITotSec> 2880 </OITotSec> 
+			<OIHiddenSec> 0 </OIHiddenSec> 
+			<OITotCapacity> 1440 </OITotCapacity> 
+			<OIStartSec> 0 </OIStartSec> 
+			<OIEndSec> 0 </OIEndSec> 
+
+			<EvidenceOfInterest> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\Gettysburg.jpg </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: EF867D326DFB95318BB1F247CC4F63F6 </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>         58927 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> A .jpg file contains an extract of texts titled "Address Delivered At The Dedication Of The Cemetry At Gettysburg" </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\Lincoln.jpg </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: C2D255934B7613177E47A580EE51C1E0 </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>         18553 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> A potrait of Abraham Lincoln in .jpg format </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\USAmmend.doc </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: A57FF86D6C2226031CF7813341199E82 </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>         87040 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> An Amendments extract title "Amendments to the Constitution" in .doc format </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\Magna Carta.doc </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: CF8B6D906B8003716A4FE4B2E3EB0112 </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>         50176 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> An extract of texts titled "Translation" in .doc format </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\Amendments to the Constitution.doc </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: A57FF86D6C2226031CF7813341199E82 </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>         87040 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> An Amendments extract titled "Amendments to the Constitution" in .doc format </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\THE DECLARATION OF INDEPENDENCE.doc </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: A25EA61AC70E568B827D99AD7EE0F003 </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>         29696 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> An extract of text titled "The Declaration of Independence, The unanimous Declaration of the thirteen United States of America" in .doc format </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\THE UNITED STATES CONSTITUTION.doc </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: AB8DE645BB5D36FFBF4BB4A7ECB330B4 </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>         73728 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> An extract of texts title "The United States Constitution" in .doc format </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+			</EvidenceOfInterest> 
+
+			<SignatureMismatch> 
+			</SignatureMismatch> 
+
+			<EOIClusters> 
+			</EOIClusters> 
+
+
+		</Drive> 
+
+	</Image> 
+
+	<ELKeys> 
+	</ELKeys> 
+	<SearchResults> 
+
+	</SearchResults> 
+	<ProjectNotes> 
+	</ProjectNotes> 
+</PDProject> 

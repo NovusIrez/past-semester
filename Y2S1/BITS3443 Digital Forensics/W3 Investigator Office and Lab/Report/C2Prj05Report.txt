@@ -1,0 +1,138 @@
+Evidence Report for Project: C2Prj04
+
+Project Number: 20210402_04
+
+Project Description: Recovering only allocated data from a disc
+
+Image Files:
+File Name: C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve
+Image File Type: DFT Image
+File Number: Proj-2-4
+Technician Name: Joe Friday
+Date: 09/24/2006
+Time: 19:02:46
+Checksum: 1fa439988039bfe87667d82cdebf8e1a
+Checksum Validated: Yes
+Compressed image: No
+Time Zone Information:
+
+Time Zone: (GMT-08:00) Pacific Time (US & Canada); Tijuana (Pacific Standard Time)
+Daylight savings (summertime) was in effect: Yes
+Time Zone information obtained automatically from remote system/image.
+
+	Hard Disk: A:\
+	Volume Name: 
+	File System: FAT12
+	Bytes Per Sector: 512
+	Total Clusters: 2847
+	Sectors per cluster: 1
+	Total Sectors: 2880
+	Hidden Sectors: 0
+	Total Capacity: 1440 KB
+	Start Sector: 0
+	End Sector: 0
+
+Disks:
+
+Evidence of Interest: 
+
+Total Evidence Items of Interest: 7 
+
+
+	Hard Disk: A:\
+	List of Files: 
+
+		C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\Gettysburg.jpg
+			MD5 Checksum: EF867D326DFB95318BB1F247CC4F63F6
+			Deleted: 	 Deleted: 06/23/2004 00:00
+			MFT &STANDARD_INFO entry modified: Not available
+			MFT $FILE_NAME entry modified: Not available
+			Cluster Chain:
+			Start Cluster		   	End Cluster 		Total Clusters
+
+
+			Investigator's comments: A .jpg file contains an extract of texts titled "Address Delivered At The Dedication Of The Cemetry At Gettysburg"
+
+		C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\Lincoln.jpg
+			MD5 Checksum: C2D255934B7613177E47A580EE51C1E0
+			Deleted: 	 Deleted: 06/23/2004 00:00
+			MFT &STANDARD_INFO entry modified: Not available
+			MFT $FILE_NAME entry modified: Not available
+			Cluster Chain:
+			Start Cluster		   	End Cluster 		Total Clusters
+
+
+			Investigator's comments: A potrait of Abraham Lincoln in .jpg format
+
+		C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\USAmmend.doc
+			MD5 Checksum: A57FF86D6C2226031CF7813341199E82
+			Deleted: 	 Deleted: 06/23/2004 00:00
+			MFT &STANDARD_INFO entry modified: Not available
+			MFT $FILE_NAME entry modified: Not available
+			Cluster Chain:
+			Start Cluster		   	End Cluster 		Total Clusters
+
+
+			Investigator's comments: An Amendments extract title "Amendments to the Constitution" in .doc format
+
+		C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\Magna Carta.doc
+			MD5 Checksum: CF8B6D906B8003716A4FE4B2E3EB0112
+			Deleted: 	 Deleted: 06/23/2004 00:00
+			MFT &STANDARD_INFO entry modified: Not available
+			MFT $FILE_NAME entry modified: Not available
+			Cluster Chain:
+			Start Cluster		   	End Cluster 		Total Clusters
+
+
+			Investigator's comments: An extract of texts titled "Translation" in .doc format
+
+		C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\Amendments to the Constitution.doc
+			MD5 Checksum: A57FF86D6C2226031CF7813341199E82
+			Deleted: 	 Deleted: 06/23/2004 00:00
+			MFT &STANDARD_INFO entry modified: Not available
+			MFT $FILE_NAME entry modified: Not available
+			Cluster Chain:
+			Start Cluster		   	End Cluster 		Total Clusters
+
+
+			Investigator's comments: An Amendments extract titled "Amendments to the Constitution" in .doc format
+
+		C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\THE DECLARATION OF INDEPENDENCE.doc
+			MD5 Checksum: A25EA61AC70E568B827D99AD7EE0F003
+			Deleted: 	 Deleted: 06/23/2004 00:00
+			MFT &STANDARD_INFO entry modified: Not available
+			MFT $FILE_NAME entry modified: Not available
+			Cluster Chain:
+			Start Cluster		   	End Cluster 		Total Clusters
+
+
+			Investigator's comments: An extract of text titled "The Declaration of Independence, The unanimous Declaration of the thirteen United States of America" in .doc format
+
+		C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve\THE UNITED STATES CONSTITUTION.doc
+			MD5 Checksum: AB8DE645BB5D36FFBF4BB4A7ECB330B4
+			Deleted: 	 Deleted: 06/23/2004 00:00
+			MFT &STANDARD_INFO entry modified: Not available
+			MFT $FILE_NAME entry modified: Not available
+			Cluster Chain:
+			Start Cluster		   	End Cluster 		Total Clusters
+
+
+			Investigator's comments: An extract of texts title "The United States Constitution" in .doc format
+
+	C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj04.eve, Hard Disk A:\ : Evidence of Interest: 7 
+
+
+Clusters of Interest: 
+
+File Signature Mismatch: 
+
+
+
+Search Results:
+
+
+Project Notes:
+
+
+
+This Report was created by ProDiscover

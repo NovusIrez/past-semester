@@ -1,0 +1,68 @@
+Understanding & Conceptualizing Interaction
+(concept model/design space)
+
+ Problem Space
+help design team to be able to conceptualize the design space
+
+- how to identify problem?
+-> assumption & claim
+   view multiple perspectives on the problem space
+
+- Assumptions vs Claim
+
+-> Assumption
+taking something for granted when it need further investigation
+
+-> Claim
+stating something to be true when it is still open to question
+- must've support to the claim (....based on...)
+
+===================================
+
+Problem Space -> Conceptual Models
+
+===================================
+
+ Conceptual Models
+->high level description of how a system is organized & operates
+->abstraction outlining what people can do with a product
+
+ 
+ Core componenets
+
+- Metaphors & Analogies
+-> How do you summarize your product
+-> how to understand what a product is for & how to use it for an activity
+-> Hill climbing (start teaching from the bottom and increasing the difficulty)
+-> teach something unfamiliar with something familiar
+
+- Concept
+-> 
+
+============================================
+
+Interaction Types
+
+- Instructing
+- Manipulating
+- Conversing
+- Exploring
+
+
+ Instructing
+- users issue instructions to a system
+
+ Manipulating
+- interact with objects in virtual/physical space by manipulating them
+- eg: open, close, place, zoom in/out, strecth, shrink
+
+ Conversing
+- users have a dialog with a system
+
+ Exploring
+- users move through a virtual environment/physical space
+
+ Responding
+- alerting user to something that it thinks is of interest
+-> direct responding (alert/notification)/ indirect respond
+

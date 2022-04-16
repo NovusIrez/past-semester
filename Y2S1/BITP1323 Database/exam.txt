@@ -1,0 +1,7 @@
+1- Product table does not have Customer_ID foreign key
+2- Cart table does not have Order_ID foreign key
+3- Category table and Product table one on one relationship is not valid
+4- Customers table and Category table many to many relationship is not valid, must have bridge
+5- Customers table and Category table is not a strong relationship
+6- Customers table and Product table is not a strong relationship
+7- Category table and Product table is not a strong relationship

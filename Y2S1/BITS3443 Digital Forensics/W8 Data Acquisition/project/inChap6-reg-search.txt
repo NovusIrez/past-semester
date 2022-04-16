@@ -1,0 +1,9 @@
+Search result for word:superior
+USER.DAT\DEFAULT\Software\Microsoft\Internet Explorer\Main
+USER.DAT\DEFAULT\Software\Microsoft\Internet Explorer\TypedURLs
+USER.DAT\DEFAULT\Software\Microsoft\Internet Account Manager\Accounts\00000001
+USER.DAT\DEFAULT\Software\Sun Microsystems\setup\recycle
+
+Search Result for word:denise
+USER.DAT\DEFAULT\Software\Microsoft\Internet Account Manager\Accounts\00000001
+USER.DAT\DEFAULT\Software\Sun Microsystems\setup\recycle

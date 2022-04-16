@@ -1,0 +1,67 @@
+
+Trojan
+- A type of malware that often disguised as legitimate software
+
+Virus total scan
+http://www.virustotal.com/en/file/fc25709c4e05dbfbcc6ae0cf8a7c06e80156ae05179203021838259aeda9801a/analysis/1461600547/
+- 61 security vendors flagged the file as malicious
+- most flag it as Trojan agent
+
+IP address
+
+Malware source
+199.83.131.18:80
+
+Infected computer
+10.0.21.136:49209
+
+Exploit kit server
+192.185.208.247:80
+
+What might be the process of the event?
+1- A download was compromised as network trojan got detected
+2- The trojan was executed by portable executable
+
+What does the malware do?
+- calls for files and other stages from the control server (multiple times) (INDICATOR-COMPROMISE) (MALWARE-CNC)
+ IP call:
+10.0.21.136:49216 -> 5.34.183.40:80
+10.0.13.54:53
+
+- attached file (possibly malicious) in a src tag (POLICY-OTHER)
+ Ip:
+192.185.208.247:80 -> 10.0.21.136:49259
+149.56.5.44:80
+174.136.46.174:80
+23.235.44.143:80
+204.194.222.24:80
+216.58.219.14:80
+
+- sending file in javascript packer (INDICATOR-OBFUSCATION)
+149.56.5.44:80 -> 10.0.21.136:49270
+
+- calls for sensitive data (Credit card number/email address) (SDF Combination Alert)
+172.217.1.227 -> 10.0.21.136
+192.185.208.247
+149.56.5.44
+216.58.193.194
+89.32.40.172
+174.136.46.174
+192.186.197.133
+85.25.79.151
+
+- denial of service attack or execute arbitraty code via a long Session cookie (LONG HEADER)
+10.0.21.136:49272 -> 172.217.1.238:80
+
+- Plaintext recovery attack (POLICY-OTHER SSL/TLS)
+69.194.244.11:443 -> 10.0.21.136:49346
+
+
+Note
+-Snort has a way to detect a system that has been compromised by the behavior
+- DNS query attempting to resolve a host in the ".pw" domain are known for malware trying to establish Command and Control
+- Exploit kit server is server running to find vulnerabilities on the software installed on the system
+
+
+Check next:
+POLICY-OTHER SSL/TLS

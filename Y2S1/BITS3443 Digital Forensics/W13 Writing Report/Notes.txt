@@ -1,0 +1,27 @@
+Forensic Products
+
+- Reports
+- Notes
+- Exhibits
+- Testimony
+
+
+Report has six parts
+
+- Examination or validation tasking
+- Forensic questions
+- Steps taken
+- Results
+- Conclusions
+- Opinions
+
+
+
+1. The importance of writing a good forensic report
+- A report is used to communicate the results of your investigation on a case. 
+It is important to write a good report for a solid testimony. 
+
+2. The characteristics of a good forensic report
+- Based on factual evidence
+- Present all the information in a logical manner
+- Written in layman terms clearly

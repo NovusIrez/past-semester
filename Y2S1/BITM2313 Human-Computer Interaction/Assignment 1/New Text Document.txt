@@ -1,0 +1,8 @@
+Font too small
+no breadcrumb navigation on what menu the user is currently in, clicking a button open a new webpage
+not consistent
+did not use the full view of the page
+The page content is too long for an overall view of what the website is offering
+Minimal to non button feedback
+Clicking link and text has too little difference (distinguished by an underline)
+"Info Semasa" section stops scrolling when hovered  - have a scrollable section so the info can be hovered and sped up

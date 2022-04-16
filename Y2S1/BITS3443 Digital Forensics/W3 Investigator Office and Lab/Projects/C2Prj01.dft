@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<PDProject> 
+	<PDProjectInfo> 
+		<ProjectName> C2Prj01 </ProjectName> 
+		<ProjectNumber> 20210402_1 </ProjectNumber> 
+		<ProjectDesc> A usb drive image Joshua Zarkan girlfriend's apartment </ProjectDesc> 
+	</PDProjectInfo> 
+	<ProcessExplorer> 
+	</ProcessExplorer> 
+
+	<Image> 
+		<IFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj01.eve </IFileName> 
+		<TypeOfDiskOrImage> Logical </TypeOfDiskOrImage> 
+		<IFileNumber> C2Proj01 </IFileNumber> 
+		<ITechnName> Joe Friday </ITechnName> 
+		<IDate> 07/29/2006 </IDate> 
+		<ITime> 18:05:44 </ITime> 
+		<IChecksum> c9bfd4d363ce0af8c5b94078737b68d8 </IChecksum> 
+		<IChecksumValidated> Yes </IChecksumValidated> 
+
+		<Drive> 
+			<DiskName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj01.eve </DiskName> 
+			<OIVolName> TBC:0000000012000000000100 </OIVolName> 
+			<OIFileSystem> FAT12 </OIFileSystem> 
+			<OIBPS> 512 </OIBPS> 
+			<OITotClust> 2847 </OITotClust> 
+			<OITotSec> 2880 </OITotSec> 
+			<OIHiddenSec> 0 </OIHiddenSec> 
+			<OITotCapacity> 1440 </OITotCapacity> 
+			<OIStartSec> 0 </OIStartSec> 
+			<OIEndSec> 0 </OIEndSec> 
+
+			<EvidenceOfInterest> 
+			</EvidenceOfInterest> 
+
+			<SignatureMismatch> 
+			</SignatureMismatch> 
+
+			<EOIClusters> 
+			</EOIClusters> 
+
+
+		</Drive> 
+
+	</Image> 
+
+	<ELKeys> 
+	</ELKeys> 
+	<SearchResults> 
+
+	</SearchResults> 
+	<ProjectNotes> 
+	</ProjectNotes> 
+</PDProject> 

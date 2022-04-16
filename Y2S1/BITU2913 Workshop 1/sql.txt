@@ -1,0 +1,37 @@
+CREATE TABLE Vehicle
+(
+   V_ID INT(10) NOT NULL AUTO_INCREMENT,
+    Own_ID INT(10) NOT NULL,
+    V_Type VARCHAR(20) NOT NULL,
+    V_Brand VARCHAR(20),
+    V_PlateNum VARCHAR(20),
+    V_Price INT(10) NOT NULL,
+    V_Status VARCHAR(10),
+    
+    CONSTRAINT Vehicle_PK PRIMARY KEY (V_ID),
+    CONSTRAINT Vehicle_Owner_FK FOREIGN KEY (Own_ID) REFERENCES OWNER(Own_ID)
+);
+
+CREATE TABLE Rented
+(
+    R_ID INT(10) NOT NULL AUTO_INCREMENT,
+    V_ID INT(10) NOT NULL,
+    User_ID INT(10) NOT NULL,
+    R_Date Date,
+    R_End Date,
+    
+    CONSTRAINT Rented_PK PRIMARY KEY (R_ID),
+    CONSTRAINT Rented_Vehicle_FK FOREIGN KEY (V_ID) REFERENCES Vehicle (V_ID) ON DELETE CASCADE,
+    CONSTRAINT Rented_User_FK FOREIGN KEY (User_ID) REFERENCES User (User_ID)
+);
+
+CREATE TABLE Returned
+(
+    Return_ID INT(10) NOT NULL AUTO_INCREMENT,
+    R_ID INT(10) NOT NULL,
+    Return_Date Date,
+    Return_Earn INT(10),
+    
+    CONSTRAINT Returned_PK PRIMARY KEY (Return_ID),
+    CONSTRAINT Returned_Rented_PK FOREIGN KEY (R_ID) REFERENCES Rented (R_ID) ON DELETE CASCADE
+);

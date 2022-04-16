@@ -1,0 +1,12 @@
+
+
+Spider.bmp is more clearer
+Spider converting jpg to bmp makes it larger but doesn't change the size from bmp
+Flower converting jpg to gif makes the file larger
+cartoon bmp to gif smaller
+
+
+
+different format of file will have different properties. same as compression type.
+so, you can see that, there is slightly different between .jpeg and .gif file.
+the compression technique used by the application also will effect to the graphic.

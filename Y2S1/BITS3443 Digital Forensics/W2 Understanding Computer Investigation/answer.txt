@@ -1,0 +1,19 @@
+1- Forensic Lab
+2- Bit stream Copy
+3- Event creation
+
+
+
+
+identification and choosing the best method of extraction (plug/unplug)
+
+2.
+- hard disk
+- cell phone
+- digital camera
+- CD/DVD/Floppy disc
+- Wifi/Network
+- Pictures
+- Encrypted files
+- Deleted emails
+- Chat transcripts

@@ -1,0 +1,24 @@
+Class database
+ownerLogin()
+userLogin()
+
+
+
+
+display rectangle
+detak print list lepas dah input
+list available only
+print rented car -> nama invoice
+sebelum invoice ada calculatePayment()
+rented car -> car info
+print invoice peminta deposit/ customer bayar payment full (calculate pemulangan)
+
+
+
+Database
+utf8mb_bin
+
+
+naming convention sql:-
+CONSTRAINT Registration_PK PRIMARY KEY (RegistrationID),
+CONSTRAINT Registration_Student_FK FOREIGN KEY (StudentID) REFERENCES Student(StudentID) ON UPDATE CASCADE

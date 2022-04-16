@@ -1,0 +1,336 @@
+<?xml version="1.0"?>
+<PDProject> 
+	<PDProjectInfo> 
+		<ProjectName> C10frag </ProjectName> 
+		<ProjectNumber> C10frag </ProjectNumber> 
+		<ProjectDesc>  </ProjectDesc> 
+	</PDProjectInfo> 
+	<ProcessExplorer> 
+	</ProcessExplorer> 
+
+	<Image> 
+		<IFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve </IFileName> 
+		<TypeOfDiskOrImage> Logical </TypeOfDiskOrImage> 
+		<IFileNumber> C10frag </IFileNumber> 
+		<ITechnName> Joe Friday </ITechnName> 
+		<IDate> 02/06/2007 </IDate> 
+		<ITime> 21:29:01 </ITime> 
+		<IChecksum> e549fa1ab8c66792ccc1b23990b0afba </IChecksum> 
+		<IChecksumValidated> Yes </IChecksumValidated> 
+
+		<Drive> 
+			<DiskName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve </DiskName> 
+			<OIVolName> NO NAME     </OIVolName> 
+			<OIVolSerNum> 2F5F-13FD </OIVolSerNum> 
+			<OIFileSystem> FAT12 </OIFileSystem> 
+			<OIBPS> 512 </OIBPS> 
+			<OITotClust> 2847 </OITotClust> 
+			<OITotSec> 2880 </OITotSec> 
+			<OIHiddenSec> 0 </OIHiddenSec> 
+			<OITotCapacity> 1440 </OITotCapacity> 
+			<OIStartSec> 0 </OIStartSec> 
+			<OIEndSec> 0 </OIEndSec> 
+
+			<EvidenceOfInterest> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\78-list.xls </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 8C2226B745BECF04150580F0F6AC8353 </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 15:31 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 2 </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 6e00 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A09090933332028323129200920093837202835372920090935350D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\shellback2.005 </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 1A8705E2079502FE29F542B5301768AD </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 15:34 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 3a2 </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> cc00 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A09090939363120283343312920092009313036322028343236292009093130320D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\shellback2.006 </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 6701E072FB0CF7E79F60DF01567C6785 </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 15:35 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 40c </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> cc00 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A0909093130363720283432422920092009313136382028343930292009093130320D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\wshellback4.jpg </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 4C17DBF21835D82872CFF5E66670ECFE </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 16:20 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 40c </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 11e70 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909467261676D656E7465642046696C650D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A0909093130363720283432422920092009313136382028343930292009093130320D0A09090931333132202835323029200920093133323620283532452920090931350D0A09090932343834202839423429200920093234393520283942462920090931320D0A09090932373536202841433429200920093237373020284144322920090931350D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\images\0Pict0033.jpg </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: C233FF5CD4598D264D871E123D376D84 </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 16:20 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 511 </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> d069 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909467261676D656E7465642046696C650D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A0909093133323820283533302920092009313432392028353935292009093130320D0A090909323737312028414433292009200932373733202841443529200909330D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> TBC:433A5C55736572735C416365725C446F63756D656E74735C6B65726A615C4249545333343433204469676974616C20466F72656E736963735C5731305C433130667261672E6576655C696D616765735CE548454C4C427E312E303038 </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 8301AB73C84B0F80486271D9EC4C942C </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 15:36 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 511 </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> cc00 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A0909093133323820283533302920092009313432392028353935292009093130320D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\images\zPict0013.xif </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 14EA712CFAF99D3D5D6E953A096DF3A9 </EOIFCheckSum> 
+					<EOICreated> 01/18/2003 16:02 </EOICreated> 
+					<EOIModified> 01/18/2003 14:59 </EOIModified> 
+					<EOIAccessed> 01/18/2003 00:00 </EOIAccessed> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 1bb </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 4c9e0 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909467261676D656E7465642046696C650D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A09090934373420283144412920092009343738202831444529200909350D0A0909093639312028324233292009200937383720283331332920090939370D0A090909383437202833344629200920093934382028334234292009093130320D0A09090939363120283343312920092009313036322028343236292009093130320D0A0909093139343720283739422920092009323037332028383139292009093132370D0A0909093231333020283835322920092009323233312028384237292009093130320D0A09090932363738202841373629200920093237353520284143332920090937380D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\images\0Pict0014.jpg </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: A3E6EAD48448B5925CE3D5186F776535 </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 15:58 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 2 </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> bae5 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A0909093333202832312920092009313236202837452920090939340D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\images\shellback2.024 </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 12C0ABDE2F90EC020D6D9BEF4A3D1A89 </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 15:42 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: a57 </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> cc00 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A09090932363738202841373629200920093237353520284143332920090937380D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\Archive\invoice1.xls </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: B21F44878AE567A0D0C478D232DBC77E </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 15:38 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 766 </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 5e00 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A09090931393235202837383529200920093139373120283742332920090934370D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\Archive\shellback2.008 </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 57481036C3716ACB725590053DEC71A8 </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 15:38 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 795 </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> cc00 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A0909093139373220283742342920092009323037332028383139292009093130320D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\Archive\shellback2.009 </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 8EF3C32681549D225C0162C38B614031 </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 15:39 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 833 </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> cc00 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A0909093231333020283835322920092009323233312028384237292009093130320D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\oscar </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 3586B0D4C65B09C4B6A5893DA7AB68EF </EOIFCheckSum> 
+					<EOIDeleted> 01/18/2003 15:07 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 1bd </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> c00 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Recovered hidden .jpg file </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909467261676D656E7465642046696C650D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A09090934373620283144432920092009343738202831444529200909330D0A09090936393120283242332920092009363933202832423529200909330D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+			</EvidenceOfInterest> 
+
+			<SignatureMismatch> 
+			</SignatureMismatch> 
+
+			<EOIClusters> 
+			</EOIClusters> 
+
+
+		</Drive> 
+
+	</Image> 
+
+	<ELKeys> 
+	</ELKeys> 
+	<SearchResults> 
+
+		<ContentSearchResults> 
+			<SRPatterns> JFIF </SRPatterns> 
+			<SRKeywords> JFIF </SRKeywords> 
+			<SRResultsOffset> 0 </SRResultsOffset> 
+			<SRResultsLen> 732 </SRResultsLen> 
+			<SRItem> 
+				<SRFileName> 78-list.xls </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\. </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> wshellback4.jpg </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\. </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> shellback2.005 </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\. </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> shellback2.006 </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\. </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> 0Pict0033.jpg </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\.\images </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E548454C4C427E312E303038 </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\.\images </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> 0Pict0014.jpg </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\.\images </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> zPict0013.xif </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\.\images </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> shellback2.024 </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\.\images </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> invoice1.xls </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\.\Archive </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> shellback2.008 </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\.\Archive </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> shellback2.009 </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\.\Archive </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> oscar </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10frag.eve\. </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+		</ContentSearchResults> 
+	</SearchResults> 
+	<ProjectNotes> 
+	</ProjectNotes> 
+</PDProject> 

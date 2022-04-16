@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<PDProject> 
+	<PDProjectInfo> 
+		<ProjectName> InChap06 </ProjectName> 
+		<ProjectNumber> InChap06 </ProjectNumber> 
+		<ProjectDesc>  </ProjectDesc> 
+	</PDProjectInfo> 
+	<ProcessExplorer> 
+	</ProcessExplorer> 
+
+	<Image> 
+		<IFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W8\GCFI-Win98\GCFI-Win98.eve </IFileName> 
+		<TypeOfDiskOrImage> Logical </TypeOfDiskOrImage> 
+		<IFileNumber> GCFI-Win98 </IFileNumber> 
+		<ITechnName> Joe Friday </ITechnName> 
+		<IDate> 03/10/2007 </IDate> 
+		<ITime> 15:51:34 </ITime> 
+		<IChecksum> 736d1b2a054103d456e5fc6f0f8571b0 </IChecksum> 
+		<IChecksumValidated> No </IChecksumValidated> 
+
+		<Drive> 
+			<DiskName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W8\GCFI-Win98\GCFI-Win98.eve </DiskName> 
+			<OIVolName> NO NAME     </OIVolName> 
+			<OIVolSerNum> 2367-1802 </OIVolSerNum> 
+			<OIFileSystem> FAT32 </OIFileSystem> 
+			<OIBPS> 512 </OIBPS> 
+			<OITotClust> 68758 </OITotClust> 
+			<OITotSec> 4401747 </OITotSec> 
+			<OIHiddenSec> 63 </OIHiddenSec> 
+			<OITotCapacity> 2200873 </OITotCapacity> 
+			<OIStartSec> 0 </OIStartSec> 
+			<OIEndSec> 0 </OIEndSec> 
+
+			<EvidenceOfInterest> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W8\GCFI-Win98\GCFI-Win98.eve\WINDOWS\SYSTEM.DAT </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: D6FEBAEDA905E994A8F2341B838188F8 </EOIFCheckSum> 
+					<EOICreated> 02/02/2007 20:22 </EOICreated> 
+					<EOIModified> 02/17/2007 17:32 </EOIModified> 
+					<EOIAccessed> 02/17/2007 00:00 </EOIAccessed> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: b7db </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 360020 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Registry files to extract </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909467261676D656E7465642046696C650D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A0909093330313333343820283244464145342920092009333031343035312028324446444133292009093730340D0A09090933313432383834202832464634453429200920093331343239343720283246463532332920090936340D0A0909093331383835313620283330413732342920092009333138383737312028333041383233292009093235360D0A0909093331383932323020283330413945342920092009333138393636372028333041424133292009093434380D0A0909093331393031313620283330414436342920092009333139303234332028333041444533292009093132380D0A0909093331393033303820283330414532342920092009333139303536332028333041463233292009093235360D0A0909093331393130373620283330423132342920092009333139313532332028333042324533292009093434380D0A0909093331393139373220283330423441342920092009333139323431392028333042363633292009093434380D0A0909093331393238363820283330423832342920092009333139333331352028333042394533292009093434380D0A090909333139333736342028333042424134292009200933313935383131202833304333413329200909323034380D0A090909333139353831322028333043334134292009200933313937353339202833304341363329200909313732380D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W8\GCFI-Win98\GCFI-Win98.eve\WINDOWS\USER.DAT </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 7024AC744139CCECC5B6C610CA88610E </EOIFCheckSum> 
+					<EOICreated> 02/03/2007 14:01 </EOICreated> 
+					<EOIModified> 02/17/2007 16:38 </EOIModified> 
+					<EOIAccessed> 02/17/2007 00:00 </EOIAccessed> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 4e3d </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 57020 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Registry files to extract </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A0909093132383239313620283133393336342920092009313238333631392028313339363233292009093730340D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+			</EvidenceOfInterest> 
+
+			<SignatureMismatch> 
+			</SignatureMismatch> 
+
+			<EOIClusters> 
+			</EOIClusters> 
+
+
+		</Drive> 
+
+	</Image> 
+
+	<ELKeys> 
+	</ELKeys> 
+	<SearchResults> 
+
+		<ContentSearchResults> 
+			<SRPatterns> system.dat </SRPatterns> 
+			<SRPatterns> user.dat </SRPatterns> 
+			<SRResultsOffset> 0 </SRResultsOffset> 
+			<SRResultsLen> 521 </SRResultsLen> 
+			<SRItem> 
+				<SRFileName> SYSTEM.DAT </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W8\GCFI-Win98\GCFI-Win98.eve\.\WINDOWS </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo>  </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> USER.DAT </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W8\GCFI-Win98\GCFI-Win98.eve\.\WINDOWS </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo>  </SRFilterInfo> 
+			</SRItem> 
+		</ContentSearchResults> 
+	</SearchResults> 
+	<ProjectNotes> 
+	</ProjectNotes> 
+</PDProject> 

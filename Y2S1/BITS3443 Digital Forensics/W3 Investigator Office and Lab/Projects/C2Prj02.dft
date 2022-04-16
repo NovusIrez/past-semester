@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<PDProject> 
+	<PDProjectInfo> 
+		<ProjectName> C2Prj02 </ProjectName> 
+		<ProjectNumber> 20210402_02 </ProjectNumber> 
+		<ProjectDesc> USB Drive image from an ex-employee </ProjectDesc> 
+	</PDProjectInfo> 
+	<ProcessExplorer> 
+	</ProcessExplorer> 
+
+	<Image> 
+		<IFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </IFileName> 
+		<TypeOfDiskOrImage> Logical </TypeOfDiskOrImage> 
+		<IFileNumber> C2Prj02t </IFileNumber> 
+		<ITechnName> Joe Friday </ITechnName> 
+		<IDate> 07/29/2006 </IDate> 
+		<ITime> 20:35:09 </ITime> 
+		<IChecksum> aea75c84294af7765980333b61c94f3b </IChecksum> 
+		<IChecksumValidated> Yes </IChecksumValidated> 
+
+		<Drive> 
+			<DiskName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </DiskName> 
+			<OIVolName> NO NAME     </OIVolName> 
+			<OIVolSerNum> FC6E-155B </OIVolSerNum> 
+			<OIFileSystem> FAT32 </OIFileSystem> 
+			<OIBPS> 512 </OIBPS> 
+			<OITotClust> 125972 </OITotClust> 
+			<OITotSec> 253952 </OITotSec> 
+			<OIHiddenSec> 0 </OIHiddenSec> 
+			<OITotCapacity> 126976 </OITotCapacity> 
+			<OIStartSec> 0 </OIStartSec> 
+			<OIEndSec> 0 </OIEndSec> 
+
+			<EvidenceOfInterest> 
+			</EvidenceOfInterest> 
+
+			<SignatureMismatch> 
+			</SignatureMismatch> 
+
+			<EOIClusters> 
+			</EOIClusters> 
+
+
+		</Drive> 
+
+	</Image> 
+
+	<ELKeys> 
+	</ELKeys> 
+	<SearchResults> 
+
+		<SRSFile> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Projects\C2Prj02.dsr </SRSFile> 
+		<ContentSearchResults> 
+			<SRPatterns> book </SRPatterns> 
+			<SRKeywords> book </SRKeywords> 
+			<SRItem> 
+				<SRFileName> Interview.xls </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve\. </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+		</ContentSearchResults> 
+		<ClusterSearchResults> 
+			<SRPatterns> book </SRPatterns> 
+			<SRKeywords> book </SRKeywords> 
+			<SRItem> 
+				<SRClusterNum> 1360 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 1409 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87435 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87504 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87574 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87655 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87791 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87869 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87926 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 87983 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88079 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88173 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88267 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88366 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88442 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88513 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88602 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88692 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88768 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88866 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 88937 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 89037 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 89103 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 89175 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 89253 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 89297 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRClusterNum> 89315 </SRClusterNum> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj02.eve </SearchResultsObject> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+		</ClusterSearchResults> 
+	</SearchResults> 
+	<ProjectNotes> 
+	</ProjectNotes> 
+</PDProject> 

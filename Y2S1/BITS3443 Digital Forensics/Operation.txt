@@ -1,0 +1,13 @@
+1- Understand the nature of the case
+-> so that appropiate actions can be taken
+2- Secure the crime scene
+3- Collect all the evidence
+- capture ram data and copy it to a removeable drive
+- seal digital evidence in antistatic bag
+4- Write the chain of custody form and send the evidence to forensic lab
+5- Create an image (bit by bit copy) of the evidence
+6- Perform investigation on the image
+-> tests
+-> replicate the findings
+7- write a report
+8- present the evidence

@@ -1,0 +1,7 @@
+1.
+ALTER TABLE STAFF
+MODIFY Position NOT NULL;
+
+
+INSERT INTO PRIVATEOWNER values
+('CO88', 'Suzanne', 'Wilson', 'St. Andrews Drive, Paisley PA3 2TJ, UK', '01224-786212', 'Suzanne.wil@emailme.com', '1234567')

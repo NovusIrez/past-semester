@@ -1,0 +1,46 @@
+Task 1: Identifying Digital Evidence
+You are given a crime scene shows as in picture. You need to:
+1. Create your own crime scene similar as shown in picture.
+2. Follow the standard guideline in processing the crime scene (choose any SOP as your reference)
+3. Secure the crime scene (Show how you want to secure the scene, i.e. draw/use any tape that suitable to demo how secure the perimeter)
+4. Identify the evidence you can collect to help the investigation process (hint: list potential evidence)
+a. Look for information related to the investigation
+b. Passwords, passphrases, PINs, bank accounts
+c. Collect documentation and media related to the investigation, Hardware, software, backup media, documentation, manuals
+5. Photograph the crime scene
+
+Task 2: Collecting and Preserving Digital Evidence
+Once the crime scene has been secured, collect and secure the evidence that have been identified.
+For this task, to proceed for the practical, you need to use any bag for packaging (hint: you can use clear plastic bag from your home kitchen) and sticker for labelling the evidence (hint: you can use sticker notes for this lab practice).
+1. Tag all evidence that has been collected with the current date and time, serial numbers or unique features, make and model, and the name of the person who collected it
+2. Maintain two separate logs of collected evidence.
+3. Maintain constant control of the collected evidence and the crime or incident scene
+
+
+
+Guys, I post you the task 3 and 4 to complete the lab.
+Task 3: Gathering and Securing Digital Evidence
+Securely gather and store the source of evidence found. For this task, you need to provide a container (hint: for the practical demo, you can use any plastic container from your kitchen) and print a chain of custody form.
+
+1. Place the evidence in a secure container and fill in the evidence custody form
+2. Keep a journal/diary to document all the activities
+
+Task 4: Documenting and Reporting
+Once complete processing the crime scene, write a short report on the activity you have done and present the finding.
+Actually, all must be done during you do the process.
+
+
+
+
+Aiman was working in a library using his laptop when he took a bathroom break. When he came back to his
+workstation, he finds that his laptop has been unlocked and his browser is now opening his email account.
+An unknown pendrive was found next to his laptop. He finds that someone has been using his email to send
+unknown files to his contacts.
+
+
+
+
+Self-Review Questions
+1. What is the importance information should be collected in the evidence custody form?
+2. Why an anti-electromagnetic bag is used in securing a hard disk?
+3. Once the evidence is stored in a safe box, what are the safety precaution an investigator must do to make sure the evidence is securely transferred to the investigation Lab?

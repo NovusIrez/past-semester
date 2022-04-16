@@ -1,0 +1,36 @@
+CREATE TABLE Student
+(
+    StudentID VARCHAR(10) NOT NULL,
+    Name VARCHAR(100) NOT NULL,
+    Program VARCHAR(5) NOT NULL,
+    Email VARCHAR(50) NOT NULL,
+    PhoneNo VARCHAR(20) NOT NULL,
+    Gender VARCHAR(10) NOT NULL,
+    DateOfBirth DATE NOT NULL,
+    
+    CONSTRAINT Student_PK PRIMARY KEY (StudentID),
+    CONSTRAINT Student_Email_UQ UNIQUE (Email),
+    CONSTRAINT Student_PhoneNo_UQ UNIQUE (PhoneNo)
+);
+
+CREATE TABLE Course
+(
+    CourseCode VARCHAR(10) NOT NULL,
+    Name VARCHAR(50) NOT NULL,
+    CreditHour INT NOT NULL,
+    
+    CONSTRAINT Course_PK PRIMARY KEY (CourseCode),
+    CONSTRAINT Course_Name_UQ UNIQUE (Name)
+);
+
+CREATE TABLE Registration
+(
+    RegistrationID INT AUTO_INCREMENT,
+    StudentID VARCHAR(10) NOT NULL,
+    CourseCode VARCHAR(10) NOT NULL,
+    RegistrationDate DATE NOT NULL,
+    
+    CONSTRAINT Registration_PK PRIMARY KEY (RegistrationID),
+    CONSTRAINT Registration_Student_FK FOREIGN KEY (StudentID) REFERENCES Student (StudentID) ON UPDATE CASCADE,
+    CONSTRAINT Registration_Course_FK FOREIGN KEY (CourseCode) REFERENCES Course (CourseCode)
+);

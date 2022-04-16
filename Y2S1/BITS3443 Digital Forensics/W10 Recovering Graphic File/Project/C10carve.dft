@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<PDProject> 
+	<PDProjectInfo> 
+		<ProjectName> C10carve </ProjectName> 
+		<ProjectNumber> C10carve </ProjectNumber> 
+		<ProjectDesc>  </ProjectDesc> 
+	</PDProjectInfo> 
+	<ProcessExplorer> 
+	</ProcessExplorer> 
+
+	<Image> 
+		<IFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve </IFileName> 
+		<TypeOfDiskOrImage> Logical </TypeOfDiskOrImage> 
+		<IFileNumber> C10frag </IFileNumber> 
+		<ITechnName> Joe Friday </ITechnName> 
+		<IDate> 02/06/2007 </IDate> 
+		<ITime> 21:34:19 </ITime> 
+		<IChecksum> 59c4af4782fc383b7f18b584594f42ec </IChecksum> 
+		<IChecksumValidated> Yes </IChecksumValidated> 
+
+		<Drive> 
+			<DiskName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve </DiskName> 
+			<OIVolName> NO NAME     </OIVolName> 
+			<OIVolSerNum> 2D31-1BED </OIVolSerNum> 
+			<OIFileSystem> FAT16 </OIFileSystem> 
+			<OIBPS> 512 </OIBPS> 
+			<OITotClust> 51283 </OITotClust> 
+			<OITotSec> 205569 </OITotSec> 
+			<OIHiddenSec> 63 </OIHiddenSec> 
+			<OITotCapacity> 102784 </OITotCapacity> 
+			<OIStartSec> 0 </OIStartSec> 
+			<OIEndSec> 0 </OIEndSec> 
+
+			<EvidenceOfInterest> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\Pictures\Friends\gametour5.txt </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 82199FA995265C3FC54B04DD89A153DC </EOIFCheckSum> 
+					<EOIDeleted> 02/04/2007 20:19 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 4b </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> 33262 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Similar file located on first USB drive </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A09090937323720283244372920092009313133382028343732292009093431320D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> TBC:433A5C55736572735C416365725C446F63756D656E74735C6B65726A615C4249545333343433204469676974616C20466F72656E736963735C5731305C43313043617276652E6576655C50696374757265735C467269656E64735CE5494354303033372E4A5047 </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 68A713955B06D9FF18AB11770B7F3803 </EOIFCheckSum> 
+					<EOIDeleted> 02/04/2007 20:19 </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 4b </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize> ab92 </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Similar file located on first USB drive </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A0909093732372028324437292009200938313420283332452920090938380D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\Pictures\Friends\gametour1.txt </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: E61611D933646773D295F291D2E9A196 </EOIFCheckSum> 
+					<EOICreated> 02/04/2007 20:19 </EOICreated> 
+					<EOIModified> 08/05/2001 09:22 </EOIModified> 
+					<EOIAccessed> 02/05/2007 00:00 </EOIAccessed> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec> StartSec: 1308 </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>       1612854 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Similar file located on first USB drive </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909467261676D656E7465642046696C650D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A09090931393931352028344443422920092009323139363220283535434129200909323034380D0A09090932313936332028353543422920092009323330363620283541314129200909313130340D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\Pictures\Friends\gametour2.txt </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: FD157F6D9B79BE120614B185A6E01518 </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>        206281 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Additional similar files in USB drive </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\Pictures\Friends\gametour3.txt </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: 55A9B71E30F2FF6549CF73EFC94257DA </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>        251101 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Additional similar files on USB drive </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\Pictures\Friends\gametour4.txt </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: B28199BF44E3DD164F98752868529566 </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>        181115 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Additional similar files on USB drive </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+				<File> 
+					<EOIFileName> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\Pictures\Friends\gametour6.txt </EOIFileName> 
+					<EOIFCheckSum> MD5 Checksum: D16BFF738B47D57C77E01C9E9F6BFBDB </EOIFCheckSum> 
+					<EOIDeleted>  </EOIDeleted> 
+					<EOISTDInfoUpdated>  </EOISTDInfoUpdated> 
+					<EOIMFTUpdated>  </EOIMFTUpdated> 
+					<EOIFStartSec>  </EOIFStartSec> 
+					<EOIFADS>  </EOIFADS> 
+					<EOIFSize>        186749 bytes </EOIFSize> 
+					<EOIBatesNum>  </EOIBatesNum> 
+					<EOIComments> Additional similar files on USB drive </EOIComments> 
+					<EOIClusterChain> TBC:090909436C757374657220436861696E3A0D0A090909537461727420436C7573746572090920202009456E6420436C7573746572200909546F74616C20436C7573746572730D0A0D0A </EOIClusterChain> 
+					<EOIIsPreviewAvailable> 0 </EOIIsPreviewAvailable> 
+					<EOIIsEXIFAvailable> 0 </EOIIsEXIFAvailable> 
+				</File> 
+			</EvidenceOfInterest> 
+
+			<SignatureMismatch> 
+			</SignatureMismatch> 
+
+			<EOIClusters> 
+			</EOIClusters> 
+
+
+		</Drive> 
+
+	</Image> 
+
+	<ELKeys> 
+	</ELKeys> 
+	<SearchResults> 
+
+		<SRSFile> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\Project\C10carve.dsr </SRSFile> 
+		<ContentSearchResults> 
+			<SRPatterns> zzzz </SRPatterns> 
+			<SRKeywords> zzzz </SRKeywords> 
+			<SRItem> 
+				<SRFileName> SPEC.PDF </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\.\Pictures\Vacations\TEMP\PublicDomain </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 0 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E5534346303332372E4A5047 </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\.\Pictures\House </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> gametour5.txt </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\.\Pictures\Friends </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> SPEC.PDF </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\.\Pictures\Friends </SearchResultsObject> 
+				<SRFileDeleted> 0 </SRFileDeleted> 
+				<SRFilterInfo> 0 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> TBC:E5494354303033372E4A5047 </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\.\Pictures\Friends </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+			<SRItem> 
+				<SRFileName> Df73.JPG </SRFileName> 
+				<SearchResultsObject> C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W10\C10Carve.eve\.\Recycled </SearchResultsObject> 
+				<SRFileDeleted> 1 </SRFileDeleted> 
+				<SRFilterInfo> 1 </SRFilterInfo> 
+			</SRItem> 
+		</ContentSearchResults> 
+	</SearchResults> 
+	<ProjectNotes> 
+	</ProjectNotes> 
+</PDProject> 

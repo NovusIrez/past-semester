@@ -1,0 +1,51 @@
+
+2 investigation
+- Public
+-> law enforcement
+-> requires warrant to search
+- Private
+-> organization
+-> requires top management to search
+
+affidavit
+- statement of verification, an oath
+
+ad hoc training
+- training based on a case
+- skill that needed at the time, we need the training (if noone in the team has it)
+
+
+rules of digital evidence (pg7)
+
+authenticity
+->
+
+trustworthy
+-> handled by trustworthy person
+
+completeness
+-> 
+
+reliable
+-> not tampered/modified
+
+believability
+-> understandable/believable
+
+- must follow current SOP
+
+
+do not give out information to other parties (e.g. law enforcement) freely without order
+
+limit phrase (pg 31)
+-> limit what the officers can obtain from you
+-> only what is required
+
+
+computer stored record
+- configuration
+- documents
+- files
+
+computer generated record
+- logs (e.g event logs)

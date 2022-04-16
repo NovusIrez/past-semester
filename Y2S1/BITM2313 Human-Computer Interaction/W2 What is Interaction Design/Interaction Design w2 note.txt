@@ -1,0 +1,62 @@
+Interaction Design
+
+- Usability Goals
+- Design Principles
+
+
+Usability goals
+
+- effectiveness
+how good a product is at doing what is is supposed to do
+
+- efficiency
+the way a product supports(assists) users in carrying out their tasks
+
+- safety
+protecting the user from dangerous conditions and undesirable situations (security/ account breach)
+
+- utility
+the extent to which product provides the right kind of functionality (example: should save when a form filled)
+
+- learnability
+how easy a system is to learn to use (understandable/obvious to use)
+
+- memorability
+how easy a product is to remember to use, once learned (memorize the design placement)
+
+
+
+Design Principles
+
+When designing for for UX?
+- what to provide
+- what to avoid at the interface
+- how to improve design
+
+
+- Visibility
+users able to know (what to do next, what can be done)
+
+- Feedback
+sending back info (what action has been done, what has been accomplished)
+
+- Constraints
+determining ways of restricting kinds of UI that can take place at given moment
+-> validation
+-> prevent users of incorrect selections
+-> prevent mistakes
+example: if the item is not on stock, you cant put it in cart
+	 only allow form to be filled after ticking "accept terms"
+
+- Consistency
+-> colours
+-> font
+-> design
+
+- Affordances
+give a clue
+allow people to know how to use it
+example: home icon is for going back to main menu
+
+- Mapping
+where the user are

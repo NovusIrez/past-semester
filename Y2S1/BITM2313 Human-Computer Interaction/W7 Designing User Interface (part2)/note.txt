@@ -1,0 +1,66 @@
+
+Appliances
+- Everyday devices at home, public places, or car
+- eg washing machine, toaster
+- minimal to none learning
+- short interactions, simple interfaces
+
+Voice
+- talking with a spoken language app
+- eg, timetable, travel planner, phone service
+
+Pen
+- Write draw select move object using pen
+- Need to design carefully as buttons may be covered by hand
+
+Touchscreens
+- design caters to size, orientation, and shape of touch
+
+Gesture
+- moving arms and hands to communicate
+- consider: 1- how computer recognize the correct gesture
+	    2- how realisti must the mirrored graphical representation
+	       of the user be in order for them to be believable
+
+Haptic
+- applying vibration and forces to a person's body.
+
+Multimodal
+- touch, sound, speech, gesture, pen input
+- can be combined
+- provides enrich user experieces
+- much harder to calibrate
+
+Shareable
+- more than one person to use
+- allow multiple inputs
+- must have larger space for everyone
+
+Tangible
+- sensor-based interaction, physical object coupled with digital representation
+- eg magic cube
+
+Augmented Reality
+- virtual representations are superimposed on physical devices and objects
+- eg Pokemon Go
+- need to stand out but not distract
+
+Wearables
+- comfort, hygiene, ease of wear, usability
+
+Robots and Drones
+- controlled remotely
+
+Brain-computer
+- communication between human brain waves and external devices
+- eg Electro smthing smthing (EEG)
+
+Smart
+- having some intelligence and connected to the internet and other devices
+- aware of what is happening around them and execute appropriate actions
+
+
+
+
+Which interface to use?
+- depends on task, users, context, cost, robustness and so on

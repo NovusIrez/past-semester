@@ -1,0 +1,28 @@
+DFRWS <- challenge, how to write a forensic report
+
+Open source tools to recover lost file/forensic tools:
+Sleuth kit
+https://h11dfs.com/the-best-open-source-digital-forensic-tools/
+ftk imager
+
+
+
+
+forensic lab 
+
+
+consider
+-big cases (enough
+
+
+
+computer forensics is about reverse engineering, putting the pieces together and conveying it to other people
+
+forensics investigator is a sound career and a stable income, as technology improves so does the demand for forensics
+
+digital forensics is challenging and more akin to figuring out a puzzle
+
+as computer crimes become more frequent, I can do my part in reducing the same crime in the future one case at a time
+
+forensics is about figuring out what others are thinking and how they handle their data, for example putting yourself in suspect's shoes
+

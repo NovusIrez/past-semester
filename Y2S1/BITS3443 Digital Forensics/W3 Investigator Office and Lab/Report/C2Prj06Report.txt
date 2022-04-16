@@ -1,0 +1,115 @@
+Evidence Report for Project: C2Prj06
+
+Project Number: 20210402_06
+
+Project Description: examining an image
+
+Image Files:
+File Name: C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj06.eve
+Image File Type: DFT Image
+File Number: C2Proj06
+Technician Name: Joe Friday
+Date: 09/24/2006
+Time: 21:57:21
+Checksum: a36e6382b99447726e8466951093bfeb
+Checksum Validated: Yes
+Compressed image: No
+Time Zone Information:
+
+Time Zone: (GMT-08:00) Pacific Time (US & Canada); Tijuana (Pacific Standard Time)
+Daylight savings (summertime) was in effect: Yes
+Time Zone information obtained automatically from remote system/image.
+
+	Hard Disk: A:\
+	Volume Name: 
+	File System: FAT12
+	Bytes Per Sector: 512
+	Total Clusters: 2847
+	Sectors per cluster: 1
+	Total Sectors: 2880
+	Hidden Sectors: 0
+	Total Capacity: 1440 KB
+	Start Sector: 0
+	End Sector: 0
+
+Disks:
+
+Evidence of Interest: 
+
+Total Evidence Items of Interest: 3 
+
+
+	Hard Disk: A:\
+	List of Files: 
+
+		C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj06.eve\The Merchant of Venice.doc
+			MD5 Checksum: D524CEA951FB29125300A56D3CD4CF91
+			Created: 06/23/2004 22:40 Modified: 06/23/2004 21:25 Last Accessed: 06/24/2004 00:00
+			MFT &STANDARD_INFO entry modified: Not available
+			MFT $FILE_NAME entry modified: Not available
+			Cluster Chain:
+			Start Cluster		   	End Cluster 		Total Clusters
+
+			494 (1EE) 	 	635 (27B) 		142
+
+			Investigator's comments: A .doc file containing the keyword "ANTONIO"
+
+		C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj06.eve\The Merry Wives of Windsor.doc
+			MD5 Checksum: 2DE33CCA01F04CE4811335072BF23736
+			Created: 06/23/2004 22:40 Modified: 06/23/2004 21:24 Last Accessed: 06/23/2004 00:00
+			MFT &STANDARD_INFO entry modified: Not available
+			MFT $FILE_NAME entry modified: Not available
+			Cluster Chain:
+			Start Cluster		   	End Cluster 		Total Clusters
+
+			636 (27C) 	 	956 (3BC) 		321
+
+			Investigator's comments: A .doc file containing the keyword "HUGH EVANS"
+
+		C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj06.eve\The Tragedy of Hamlet.doc
+			MD5 Checksum: 0EC248046D7663CAF9B5ED8F2D71295B
+			Deleted: 06/24/2004 00:00
+			MFT &STANDARD_INFO entry modified: Not available
+			MFT $FILE_NAME entry modified: Not available
+			Cluster Chain:
+			Start Cluster		   	End Cluster 		Total Clusters
+
+			957 (3BD) 	 	1132 (46C) 		176
+
+			Investigator's comments: A .doc file containing the keyword "HORATIO"
+
+	C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj06.eve, Hard Disk A:\ : Evidence of Interest: 3 
+
+
+Clusters of Interest: 
+
+Total Selected Clusters: 3 
+
+
+	Hard Disk: A:\
+	List of Clusters: 
+
+	1f3 (499)
+	 MD5 Checksum: CE095A031947C59654A2F26A133F8C24
+	Investigator's comments: Cluster allocated to the keyword "ANTONIO"
+	281 (641)
+	 MD5 Checksum: 0E8563B08C4BE1B5462388A2E1CB8691
+	Investigator's comments: Cluster Allocated to the keyword "HUGH EVANS"
+	3c3 (963)
+	 MD5 Checksum: 034B8C436148016150DA51D66C5F5C0A
+	Investigator's comments: Cluster allocated to the keyword "HORATIO"
+C:\Users\Acer\Documents\kerja\BITS3443 Digital Forensics\W3\Image\C2Prj06.eve, Hard Disk A:\ : Selected Clusters : 3 
+
+
+File Signature Mismatch: 
+
+
+
+Search Results:
+
+
+Project Notes:
+
+
+
+This Report was created by ProDiscover

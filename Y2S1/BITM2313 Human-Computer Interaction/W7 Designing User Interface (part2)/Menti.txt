@@ -1,0 +1,8 @@
+Youtube - user can skip and rewind a video by 10 seconds using the L and J key,
+reducing the amount of clicks
+
+Youtube - youtube implements a few conveniences for user to navigate with keyboard only,
+like skipping a few elements of the page when using tab to navigate
+
+Youtube - elements of a page resizes to fit the main focus/feature of the page 
+and minimizes others when zoomed in

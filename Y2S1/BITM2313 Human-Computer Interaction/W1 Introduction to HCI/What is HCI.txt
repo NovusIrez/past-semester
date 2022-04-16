@@ -1,0 +1,40 @@
+What to design
+- Interaction between human and computer/application/software
+- A good application design
+- Need to take note of 
+- > who are the users (who is going to use the application)
+- > what are the activities (how they are used)
+- > where they are going to be used
+
+
+Interaction design (ID)
+- designing interactive products to support the way people communicate and interact
+- the design of spaces for human-com interaction (where the are going to be used)
+
+Goals of ID
+- develop usable products
+- involve user in the design process (what they are looking for)
+eg. interactive, easy to use
+
+ID
+- wider
+- concerned with theory, research and practice of design UX
+
+HCI
+- narrower focus
+- concerned with design, evaluation and implementation of interactive comp systems for human
+
+User Experience
+- Central to ID
+- how a product behaves & how its going to be used by people irl (real world)
+- every product = user experience
+- how people feel about a product (pleasure & satisfaction)
+-> cannot design a sensual experience, only create design features that can evoke it
+-> touch/look/interact provoke sensual & satisfying UX
+
+Good design
+- understandable (content, how to use)
+- interesting (want to use)
+- easy to use (easy to navigate)
+- uniform look & feel (consistent)
+

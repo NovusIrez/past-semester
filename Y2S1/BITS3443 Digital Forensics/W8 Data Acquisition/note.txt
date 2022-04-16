@@ -1,0 +1,12 @@
+
+
+- Know the capabilities of your tools
+
+LiMe - Linux memory extractor
+netcat
+PuTTY - NSSH/ client
+WinSCP - SFTP client
+
+
+
+data carving = reconstruction

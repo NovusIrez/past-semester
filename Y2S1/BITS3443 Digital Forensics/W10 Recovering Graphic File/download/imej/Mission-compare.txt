@@ -1,0 +1,34 @@
+Comparing Mission.bmp and Mission-steg.bmp...
+Compare error at OFFSET EE
+file1 = 75
+file2 = 74
+Compare error at OFFSET 19B
+file1 = 1E
+file2 = 1F
+Compare error at OFFSET 27F
+file1 = 34
+file2 = 35
+Compare error at OFFSET 2AD
+file1 = 4E
+file2 = 4F
+Compare error at OFFSET 3B6
+file1 = 89
+file2 = 88
+Compare error at OFFSET 41A
+file1 = 55
+file2 = 54
+Compare error at OFFSET 479
+file1 = 9A
+file2 = 9B
+Compare error at OFFSET 4BF
+file1 = 95
+file2 = 94
+Compare error at OFFSET 5D2
+file1 = 5D
+file2 = 5C
+Compare error at OFFSET 6D1
+file1 = 1B
+file2 = 1A
+10 mismatches - ending compare
+
+n
