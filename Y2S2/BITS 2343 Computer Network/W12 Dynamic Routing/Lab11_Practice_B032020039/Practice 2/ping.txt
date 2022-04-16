@@ -1,0 +1,9 @@
+R2#ping 172.30.2.10
+
+Type escape sequence to abort.
+Sending 5, 100-byte ICMP Echos to 172.30.2.10, timeout is 2 seconds:
+!U!.!
+Success rate is 60 percent (3/5), round-trip min/avg/max = 3/4/4 ms
+
+
+

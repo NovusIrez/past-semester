@@ -1,0 +1,33 @@
+R3#debug ip rip
+RIP protocol debugging is on
+R3#RIP: received v2 update from 209.165.200.233 on Serial0/0/1
+      10.0.0.0/8 via 0.0.0.0 in 1 hops
+      209.165.200.228/30 via 0.0.0.0 in 1 hops
+RIP: sending  v2 update to 224.0.0.9 via Loopback0 (172.30.110.1)
+RIP: build update entries
+      10.0.0.0/8 via 0.0.0.0, metric 2, tag 0
+      172.30.100.0/24 via 0.0.0.0, metric 1, tag 0
+      172.30.200.16/28 via 0.0.0.0, metric 1, tag 0
+      172.30.200.32/28 via 0.0.0.0, metric 1, tag 0
+      209.165.200.0/24 via 0.0.0.0, metric 1, tag 0
+RIP: sending  v2 update to 224.0.0.9 via Loopback1 (172.30.200.17)
+RIP: build update entries
+      10.0.0.0/8 via 0.0.0.0, metric 2, tag 0
+      172.30.100.0/24 via 0.0.0.0, metric 1, tag 0
+      172.30.110.0/24 via 0.0.0.0, metric 1, tag 0
+      172.30.200.32/28 via 0.0.0.0, metric 1, tag 0
+      209.165.200.0/24 via 0.0.0.0, metric 1, tag 0
+RIP: sending  v2 update to 224.0.0.9 via Loopback2 (172.30.200.33)
+RIP: build update entries
+      10.0.0.0/8 via 0.0.0.0, metric 2, tag 0
+      172.30.100.0/24 via 0.0.0.0, metric 1, tag 0
+      172.30.110.0/24 via 0.0.0.0, metric 1, tag 0
+      172.30.200.16/28 via 0.0.0.0, metric 1, tag 0
+      209.165.200.0/24 via 0.0.0.0, metric 1, tag 0
+RIP: sending  v2 update to 224.0.0.9 via Serial0/0/1 (209.165.200.234)
+RIP: build update entries
+      172.30.0.0/16 via 0.0.0.0, metric 1, tag 0
+undebRIP: received v2 update from 209.165.200.233 on Serial0/0/1
+      10.0.0.0/8 via 0.0.0.0 in 1 hops
+      209.165.200.228/30 via 0.0.0.0 in 1 undebug all
+All possible debugging has been turned off

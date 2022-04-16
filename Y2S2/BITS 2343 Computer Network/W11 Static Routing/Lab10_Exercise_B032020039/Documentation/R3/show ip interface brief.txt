@@ -1,0 +1,13 @@
+Interface              IP-Address      OK? Method Status                Protocol
+ 
+FastEthernet0/0        172.16.1.1      YES manual up                    up
+ 
+FastEthernet0/1        unassigned      YES unset  administratively down down
+ 
+Serial0/0/0            unassigned      YES unset  administratively down down
+ 
+Serial0/0/1            192.168.10.13   YES manual up                    up
+ 
+Loopback3              202.184.1.25    YES manual up                    up
+ 
+Vlan1                  unassigned      YES unset  administratively down down

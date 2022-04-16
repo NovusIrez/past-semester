@@ -1,0 +1,19 @@
+%SYS-5-CONFIG_I: Configured from console by console
+show ip interf brie
+Interface              IP-Address      OK? Method Status                Protocol
+ 
+FastEthernet0/0        172.16.2.1      YES manual up                    up
+ 
+FastEthernet0/1        202.184.1.65    YES manual up                    up
+ 
+Serial0/0/0            unassigned      YES unset  administratively down down
+ 
+Serial0/0/1            unassigned      YES unset  administratively down down
+ 
+Serial0/1/0            172.16.3.2      YES manual up                    up
+ 
+Serial0/1/1            192.168.10.14   YES manual up                    up
+ 
+Loopback2              202.184.1.17    YES manual up                    up
+ 
+Vlan1                  unassigned      YES unset  administratively down down
