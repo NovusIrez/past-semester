@@ -1,0 +1,24 @@
+aaa new-model
+aaa authentication login default local
+aaa authorization exec default local
+ip scp server enable
+
+exit
+copy running-config flash:
+R1-Config
+show flash
+
+
+
+
+
+copy scp: flash:
+
+10.1.1.1
+admin
+R1-Config
+
+cisco12345
+show flash
+more R1-Config
+copy run start

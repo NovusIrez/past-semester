@@ -1,0 +1,15 @@
+ip domain-name ccnasecurity.com
+username admin privilege 15 secret cisco12345
+line vty 0 4
+privilege level 15
+login local
+transport input ssh
+exit
+crypto key zeroize rsa
+crypto key generate rsa general-keys modulus 1024
+ip ssh version 2
+exit
+show ip ssh
+conf t
+ip ssh time-out 90
+ip ssh authentication-retries 2

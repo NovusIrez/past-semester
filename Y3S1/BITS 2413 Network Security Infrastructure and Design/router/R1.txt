@@ -1,0 +1,104 @@
+Current configuration : 1716 bytes
+!
+! Last configuration change at 13:29:25 UTC Thu Mar 18 2021
+version 15.3
+service timestamps debug datetime msec
+service timestamps log datetime msec
+service password-encryption
+!
+hostname R1
+!
+boot-start-marker
+boot-end-marker
+!
+!
+security passwords min-length 10
+enable secret 9 $9$ooLp3LbDxXV6Bk$CrOIVxxLQ8TDK46kOo7QS8O1EUSeBLOnHMnJzzgJlkY
+!
+no aaa new-model
+!
+!
+!
+!
+!
+!
+!
+no ip domain lookup
+ip cef
+no ipv6 cef
+!
+multilink bundle-name authenticated
+!
+!
+!
+license udi pid CISCO1941/K9 sn FGL183723VR
+license boot module c1900 technology-package securityk9
+!
+!
+!
+redundancy
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+interface Embedded-Service-Engine0/0
+ no ip address
+ shutdown
+!
+interface GigabitEthernet0/0
+ no ip address
+ shutdown
+ duplex auto
+ speed auto
+!
+interface GigabitEthernet0/1
+ ip address 192.168.1.1 255.255.255.0
+ shutdown
+ duplex auto
+ speed auto
+!
+interface Serial0/0/0
+ ip address 10.1.1.1 255.255.255.252
+!
+interface Serial0/0/1
+ no ip address
+ shutdown
+ clock rate 2000000
+!
+router ospf 1
+ passive-interface GigabitEthernet0/1
+ network 10.1.1.0 0.0.0.3 area 0
+ network 192.168.1.0 0.0.0.255 area 0
+!
+ip forward-protocol nd
+!
+no ip http server
+no ip http secure-server
+!
+!
+!
+!
+!
+control-plane
+!
+!
+banner motd ^CUnauthorized access strictly prohibited!^C
+!
+line con 0
+ exec-timeout 5 0
+ password 7 13061E01080307252534292026
+ logging synchronous
+ login
+line aux 0
+ exec-timeout 5 0
+ password 7 0822455D0A1604020A1B0D1739

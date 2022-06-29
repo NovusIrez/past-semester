@@ -1,0 +1,6 @@
+Word Wide Web Publishing Service
+
+W3SVC service
+
+sc stop w3svc
+sc config w3svc start= disabled
