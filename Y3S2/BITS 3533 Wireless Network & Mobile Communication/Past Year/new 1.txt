@@ -1,0 +1,18 @@
+There are many advantages of using wireless communication technology compared to wired communication technology. Explain the advantages of wireless communication technology in terms of characteristics of installation, coverage and flexibility.
+
+
+How would the cell coverage radius be affected by the system loading for each the
+technologies:
+(i) Advanced Mobile Phone Systems (AMPS)
+(ii) North American CDMA System (IS-95)
+(iii) United States Digital Cellular (1S54 TDMA)
+
+
+Ali has just bought a new cellular smartphone from Samsung shop at Melaka city Jusco. Based on the technical specifications provided by the user manual, the battery capacity
+of the smartphone is stated as 4040 mAH. It is also mentioned that the smartphone draws
+100 mA during a call and 10 mA in idle mode. Analyse the battery life performance if
+Ali makes a 12-minute call and then leaves the phone on continuously everyday. What
+happens if he does the same thing for every hour? Predict the maximum talk time
+available for the cellular smartphone.
+
+Interference is the limiting factor in performance of all cellular radio systems. List TWO major types of system-generated cellular interference, and propose the techniques to reduce the mentioned interference.

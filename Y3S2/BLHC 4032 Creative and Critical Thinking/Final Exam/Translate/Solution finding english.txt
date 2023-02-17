@@ -1,0 +1,9 @@
+There are several techniques that can be used to evaluate and select ideas during the Solution Finding step, including:
+
+    Idea Evaluation: This technique involves evaluating the ideas generated in the previous step based on specific criteria, such as feasibility, impact, and alignment with the problem statement.
+
+    Cost-Benefit Analysis: This technique is used to evaluate the potential benefits and costs of each idea. It helps to identify the ideas that are most likely to be successful, while taking into account the resources required to implement them.
+
+    Pareto Analysis: This technique is used to identify the ideas that will have the greatest impact on solving the problem. It involves ranking the ideas based on their potential impact and then selecting the most promising solutions.
+
+    Solution Selection: This technique involves selecting the best solution from the list of ideas generated in the previous step. It is important to consider the feasibility and alignment of the solution with the problem statement.
