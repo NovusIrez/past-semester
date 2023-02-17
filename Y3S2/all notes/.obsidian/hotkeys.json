@@ -1,0 +1,21 @@
+{
+  "tag-pane:open": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "highlightr-plugin:highlighter-plugin-menu": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "highlightr-plugin:Orange": [],
+  "highlightr-plugin:unhighlight": []
+}

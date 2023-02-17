@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "12ad448d4fbe2173",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b37ecc746765989",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BITS3533 Wireless Network & Mobile Communication.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7fee1e511145a9b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "66c44b91300f3e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d1ba582f29c22c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7631349fb54f179e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318
+  },
+  "right": {
+    "id": "d0dd60325c8bef9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c27b19724f53c10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92064fa39e121b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BITS3533 Wireless Network & Mobile Communication.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d10f02f5ce112900",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6ea0b8205f8babd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BITS3533 Wireless Network & Mobile Communication.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "4b37ecc746765989",
+  "lastOpenFiles": [
+    "BLHC4032 Creative and Critical Thinking.md",
+    "BITS3533 Wireless Network & Mobile Communication.md",
+    "Games/How to setup Tango real quick.md",
+    "Games/Octopath Traveler notes.md",
+    "Games/Games and Shows.md",
+    "Y3S1/BLLW 2152 Academic Writing.md",
+    "Y3S1/BITU 3973 Final Year Project I.md",
+    "Random Notes/App Design checklist.md",
+    "Notes/Seminar Future Note.md",
+    "Notes/Future notes.md"
+  ]
+}

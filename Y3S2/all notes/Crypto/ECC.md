@@ -1,0 +1,9 @@
+Elliptic Curve Cryptography (ECC) is a type of <mark style="background: #FFF3A3A6;">public-key cryptography</mark> that is based on the<mark style="background: #FFF3A3A6;"> mathematics of elliptic curves</mark>.
+
+The difficult problem in ECC is the <mark style="background: #FFF3A3A6;">Elliptic Discrete Curve Logarithm Problem (EDCLP)</mark>. This problem involves finding the secret integer that was used to generate a particular point on an elliptic curve. This integer is denoted by k in ECC.
+
+## Explanation
+
+ECC is like most other public key encryption methods, such as the RSA algorithm and [Diffie-Hellman](https://www.techtarget.com/searchsecurity/definition/Diffie-Hellman-key-exchange). Each of these cryptography mechanisms uses the concept of a one-way, or trapdoor, function. This means that a mathematical equation with a public and private key can be used to easily get from point A to point B. But, without knowing the private key and depending on the key size used, getting from B to A is difficult, if not impossible, to achieve.
+
+ECC is based on the properties of a set of values for which operations can be performed on any two members of the group to produce a third member, which is derived from points where the line intersects the axes as shown with the green line and three blue dots in the below diagram labeled A, B and C. Multiplying a point on the curve by a number produces another point on the curve (C). Taking point C and bringing it to the mirrored point on the opposite side of the x-axis produces point D. From here, a line is drawn back to our original point A, creating an intersection at point E. This process can be completed _n_ number of times within a defined max value. The _n_ is the private key value, which indicates how many times the equation should be run, ending on the final value that is used to encrypt and decrypt data. The maximum defined value of the equation relates to the key size used.

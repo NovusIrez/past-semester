@@ -1,0 +1,5 @@
+NTRU is a public key encryption system that is <mark style="background: #FFF3A3A6;">based on the problem of finding the shortest vector in a lattice</mark>. NTRU stands for "Nth Degree Truncated Polynomial Ring Unit," which refers to the mathematical structure underlying the encryption algorithm. It is a type of lattice-based cryptography and is considered to be one of the most secure and efficient public key encryption systems available.
+
+The security of NTRU is based on the assumption that solving the shortest vector problem (SVP) in a lattice is computationally hard. This makes it resistant to attacks based on factorization and discrete logarithms, which are the basis of the security of other public key encryption systems such as RSA and ECC.
+
+NTRU is often used in applications where fast encryption and decryption are required, such as in embedded systems, and is considered to be a more secure alternative to RSA in these cases.
